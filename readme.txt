@@ -1,8 +1,8 @@
 === Styler for Gravity Forms ===
-Contributors: ideaboxcreations, jainnidhi
+Contributors: ideaboxcreations, jainnidhi, simrandeep
 Tags: gravity forms, gravity forms styler, gravity forms css, gravity forms templates, gravity forms design, style gravity forms, gforms styling, gravity form themes, responsive forms, gravity form style, gravity form
 Requires at least: 4.6
-Tested up to: 5.2.3
+Tested up to: 5.9
 Stable tag: trunk
 License: GPL2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
