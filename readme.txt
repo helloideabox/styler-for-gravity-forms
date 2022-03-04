@@ -63,6 +63,9 @@ No. Once you customize the style, it will be applied to all the Gravity Forms on
 
 == Changelog ==
 
+= 1.2.1 - February 10, 2022 =]
+*	Fixed PHP errors
+
 = 1.2.0 - October 4, 2019 =
 *	Added Success Message Styling Options
 *	Fixed styling for radio and checkbox

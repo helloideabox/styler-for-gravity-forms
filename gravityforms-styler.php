@@ -3,7 +3,7 @@
  * Plugin Name: Styler for Gravity Forms
  * Plugin URI: http://ideaboxcreations.com/
  * Description: Provide Gravity Forms styling options in customizer.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: IdeaBox Creations
  * Author URI: http://ideaboxcreations.com/
  * Copyright: (c) 2017 IdeaBox Creations
